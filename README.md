@@ -1,4 +1,4 @@
-# ♟️ ChessApp
+# ♟️ Chess Game
 
 **Real-time Multiplayer Chess Game** using **Node.js**, **Express**, **Socket.IO**, **Chess.js**, and **Tailwind CSS**! Play live games with real-time updates, move validation, and a responsive interface.
 
